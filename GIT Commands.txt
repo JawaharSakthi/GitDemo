@@ -6,3 +6,4 @@ git diff --> changes made will be displayed
 git restore <filename>  --> restore the deleted files
 git commit -m "message" --> store in the local repository
 git log --> shows the history, checks the user who added previously
+git remote add origin "paste the url" --> Establish the connection between local and global repository
