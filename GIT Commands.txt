@@ -1,0 +1,6 @@
+git init --> To create local repository or staging area
+git status --> To check the status of the files
+git add --> add the files to staging area
+git diff --> changes made will be displayed
+git restore <filename>  --> restore the deleted files
+git commit -m "message" --> store in the local repository
